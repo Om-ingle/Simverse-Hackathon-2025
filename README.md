@@ -1,12 +1,12 @@
 # Anti-India Campaign Detection System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://anti-india-campaign-detection.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://anti-india-detection-system-new.streamlit.app/)
 
 ## Overview
 
 An advanced **Anti-India Campaign Detection System** built with [Streamlit](https://streamlit.io/) for interactive dashboarding, machine learning-based content analysis, network graphing, and automated reporting. This system is designed to identify and analyze suspicious, coordinated, or high-risk social media activity targeting India, leveraging both Twitter and Reddit data sources.
 
-🔗 **[Try Live Demo](https://anti-india-campaign-detection.streamlit.app/)**
+🔗 **[Try Live Demo](https://anti-india-detection-system-new.streamlit.app/)**
 
 ---
 
@@ -137,7 +137,7 @@ pip install streamlit torch transformers plotly networkx pandas numpy scikit-lea
 streamlit run app.py
 ```
 
-Or visit the **[Live Demo](https://anti-india-campaign-detection.streamlit.app/)**
+Or visit the **[Live Demo](https://anti-india-detection-system-new.streamlit.app/)**
 
 ---
 
